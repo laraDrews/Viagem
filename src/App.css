@@ -4,8 +4,8 @@
 }
 
 header, footer {
-  background-color: #282c34;
-  color: white;
+  background-color: #64914f;
+  color: rgb(255, 255, 255);
   padding: 1rem;
 }
 
@@ -18,7 +18,7 @@ input {
 }
 
 .destino {
-  border: 1px solid #ddd;
+  border: 1px solid #a3c27f;
   margin: 1rem;
   padding: 1rem;
 }
