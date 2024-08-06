@@ -1,5 +1,3 @@
-# React + Vite
-
 Resumo da aula
 
 1- O entregável da aula é um resumo conciso com suas palavras sobre os principais pontos abordados.
@@ -54,6 +52,3 @@ Após selecionar tudo que estava acima, o sistema vai calcular o subtotal da via
 6- Sugestões e melhorias ao aplicativo desenvolvido.
 Uma coisa muito importante que ta faltando é um botão para poder excluir ou editar o destino e provavelmente algumas fotos
 
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
